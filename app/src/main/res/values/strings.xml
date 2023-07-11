@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">appAlcoolGasolina</string>
     <string name="tvAlcool">Preço Alcool:</string>
+    <string name="tvGasolina">Preço Gasolina:</string>
     <string name="tvResultado">Resultado</string>
     <string name="btCalculo">Calcular</string>
 
