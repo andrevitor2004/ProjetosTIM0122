@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         double resultado = precoA/precoG;
 
         if(resultado<=0.7){
-            tvResultado.setText(String.format("Álcool é melhor."));
+            tvResultado.setText(String.format("Álcool."));
         }else{
             tvResultado.setText(String.format("Gasolina é melhor."));
         }
